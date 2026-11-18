@@ -1,0 +1,133 @@
+{
+  "frames": {
+    "award_lamp": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 746,
+        "h": 506
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 746,
+        "h": 506
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 506
+      }
+    },
+    "award_panel": {
+      "frame": {
+        "x": 752,
+        "y": 2,
+        "w": 994,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 994,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 994,
+        "h": 630
+      }
+    },
+    "award_headline": {
+      "frame": {
+        "x": 2,
+        "y": 636,
+        "w": 688,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 688,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 688,
+        "h": 120
+      }
+    },
+    "award_title": {
+      "frame": {
+        "x": 694,
+        "y": 636,
+        "w": 637,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 637,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 637,
+        "h": 120
+      }
+    },
+    "award_glow": {
+      "frame": {
+        "x": 2,
+        "y": 760,
+        "w": 782,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 782,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 782,
+        "h": 301
+      }
+    },
+    "award_smoke": {
+      "frame": {
+        "x": 788,
+        "y": 760,
+        "w": 300,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 291
+      }
+    }
+  },
+  "meta": {
+    "image": "lamp.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1063
+    },
+    "scale": "1"
+  }
+}
