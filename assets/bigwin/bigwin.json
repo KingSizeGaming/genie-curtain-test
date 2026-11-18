@@ -1,0 +1,153 @@
+{
+  "frames": {
+    "big_title": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 533,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 533,
+        "h": 298
+      }
+    },
+    "big_win": {
+      "frame": {
+        "x": 539,
+        "y": 2,
+        "w": 696,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 696,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 696,
+        "h": 310
+      }
+    },
+    "huge_title": {
+      "frame": {
+        "x": 2,
+        "y": 316,
+        "w": 854,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 854,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 854,
+        "h": 298
+      }
+    },
+    "huge_win": {
+      "frame": {
+        "x": 860,
+        "y": 316,
+        "w": 696,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 696,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 696,
+        "h": 309
+      }
+    },
+    "mega_title": {
+      "frame": {
+        "x": 2,
+        "y": 629,
+        "w": 945,
+        "h": 308
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 945,
+        "h": 308
+      },
+      "sourceSize": {
+        "w": 945,
+        "h": 308
+      }
+    },
+    "mega_win": {
+      "frame": {
+        "x": 951,
+        "y": 629,
+        "w": 696,
+        "h": 310
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 696,
+        "h": 310
+      },
+      "sourceSize": {
+        "w": 696,
+        "h": 310
+      }
+    },
+    "win_sparkle": {
+      "frame": {
+        "x": 1651,
+        "y": 629,
+        "w": 128,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 123
+      }
+    }
+  },
+  "meta": {
+    "image": "bigwin.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 941
+    },
+    "scale": "1"
+  }
+}
