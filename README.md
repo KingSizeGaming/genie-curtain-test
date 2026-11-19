@@ -2,7 +2,7 @@
 
 Open https://kingsizegaming.github.io/genie-curtain-test/ on your phone.
 
-The bench opens on Chests: purple Coin Strike and green Jackpot chests have independent opening lids, gold opening bursts, textured coin showers and visibly growing piles through level 1 to 5. Symbols offers ten original symbol win highlights. Lamp & Award, Big Win, Huge Win, Mega Win, and Curtain remain in the selector.
+The bench opens on Genie: lamp and smoke entrance, layered character reveal, floating idle, presenting gesture, sample award count and smoke exit. Chests, Symbols, Lamp & Award, Big Win, Huge Win, Mega Win, and Curtain remain in the selector.
 
 Press PLAY or enable LOOP. Controls also include SKIP, STOP, RESET, MOTION OFF, and SPEED 2x. These are presentation previews, not game outcomes; no payout, threshold, or random result is calculated. Source coin numerals are supplied sample artwork.
 
