@@ -399,6 +399,186 @@
         "w": 230,
         "h": 213
       }
+    },
+    "collect_rig_ep_box": {
+      "frame": {
+        "x": 2,
+        "y": 868,
+        "w": 285,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 153
+      }
+    },
+    "collect_rig_ep_coin": {
+      "frame": {
+        "x": 291,
+        "y": 868,
+        "w": 317,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 149
+      }
+    },
+    "collect_rig_ep_door_close": {
+      "frame": {
+        "x": 612,
+        "y": 868,
+        "w": 317,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 124
+      }
+    },
+    "collect_rig_ep_door_open": {
+      "frame": {
+        "x": 933,
+        "y": 868,
+        "w": 317,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 123
+      }
+    },
+    "collect_rig_jp_box": {
+      "frame": {
+        "x": 1254,
+        "y": 868,
+        "w": 285,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 285,
+        "h": 153
+      }
+    },
+    "collect_rig_jp_coin": {
+      "frame": {
+        "x": 1543,
+        "y": 868,
+        "w": 317,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 149
+      }
+    },
+    "collect_rig_jp_door_close": {
+      "frame": {
+        "x": 2,
+        "y": 1025,
+        "w": 317,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 124
+      }
+    },
+    "collect_rig_jp_door_open": {
+      "frame": {
+        "x": 323,
+        "y": 1025,
+        "w": 317,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 317,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 317,
+        "h": 123
+      }
+    },
+    "collect_shower_coin": {
+      "frame": {
+        "x": 644,
+        "y": 1025,
+        "w": 80,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 78
+      }
     }
   },
   "meta": {
@@ -406,7 +586,7 @@
     "format": "RGBA8888",
     "size": {
       "w": 2048,
-      "h": 866
+      "h": 1151
     },
     "scale": "1"
   }
