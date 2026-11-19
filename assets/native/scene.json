@@ -1,0 +1,253 @@
+{
+  "frames": {
+    "native_background_base": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 540,
+        "h": 960
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 540,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 540,
+        "h": 960
+      }
+    },
+    "native_background_coin_strike": {
+      "frame": {
+        "x": 546,
+        "y": 2,
+        "w": 540,
+        "h": 960
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 540,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 540,
+        "h": 960
+      }
+    },
+    "native_reel_frame": {
+      "frame": {
+        "x": 1090,
+        "y": 2,
+        "w": 940,
+        "h": 481
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 940,
+        "h": 481
+      },
+      "sourceSize": {
+        "w": 940,
+        "h": 481
+      }
+    },
+    "native_reel_background": {
+      "frame": {
+        "x": 2,
+        "y": 966,
+        "w": 920,
+        "h": 471
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 920,
+        "h": 471
+      },
+      "sourceSize": {
+        "w": 920,
+        "h": 471
+      }
+    },
+    "native_logo": {
+      "frame": {
+        "x": 926,
+        "y": 966,
+        "w": 331,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 331,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 331,
+        "h": 220
+      }
+    },
+    "native_gold_shelf": {
+      "frame": {
+        "x": 1261,
+        "y": 966,
+        "w": 572,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 572,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 572,
+        "h": 150
+      }
+    },
+    "native_jp_micro": {
+      "frame": {
+        "x": 2,
+        "y": 1441,
+        "w": 290,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 128
+      }
+    },
+    "native_jp_mini": {
+      "frame": {
+        "x": 296,
+        "y": 1441,
+        "w": 290,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 127
+      }
+    },
+    "native_jp_bonus": {
+      "frame": {
+        "x": 590,
+        "y": 1441,
+        "w": 290,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 127
+      }
+    },
+    "native_jp_minor": {
+      "frame": {
+        "x": 884,
+        "y": 1441,
+        "w": 290,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 126
+      }
+    },
+    "native_jp_major": {
+      "frame": {
+        "x": 1178,
+        "y": 1441,
+        "w": 290,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 124
+      }
+    },
+    "native_jp_grand": {
+      "frame": {
+        "x": 1472,
+        "y": 1441,
+        "w": 290,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 290,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 290,
+        "h": 89
+      }
+    }
+  },
+  "meta": {
+    "image": "scene.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1571
+    },
+    "scale": "1"
+  }
+}

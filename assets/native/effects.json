@@ -1,0 +1,153 @@
+{
+  "frames": {
+    "native_coin_strike_complete": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 900,
+        "h": 600
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 600
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 600
+      }
+    },
+    "native_coin_strike_complete_blank": {
+      "frame": {
+        "x": 906,
+        "y": 2,
+        "w": 900,
+        "h": 600
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 600
+      },
+      "sourceSize": {
+        "w": 900,
+        "h": 600
+      }
+    },
+    "native_Jackpot_award_frame": {
+      "frame": {
+        "x": 2,
+        "y": 606,
+        "w": 780,
+        "h": 506
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 780,
+        "h": 506
+      },
+      "sourceSize": {
+        "w": 780,
+        "h": 506
+      }
+    },
+    "native_flip_face": {
+      "frame": {
+        "x": 786,
+        "y": 606,
+        "w": 360,
+        "h": 358
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 358
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 358
+      }
+    },
+    "native_win_coin": {
+      "frame": {
+        "x": 1150,
+        "y": 606,
+        "w": 250,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 245
+      }
+    },
+    "native_coin_value_ts": {
+      "frame": {
+        "x": 1404,
+        "y": 606,
+        "w": 160,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 138
+      }
+    },
+    "native_coin_plus_one_mc": {
+      "frame": {
+        "x": 1568,
+        "y": 606,
+        "w": 160,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 138
+      }
+    }
+  },
+  "meta": {
+    "image": "effects.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1114
+    },
+    "scale": "1"
+  }
+}
