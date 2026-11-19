@@ -2,10 +2,8 @@
 
 Open https://kingsizegaming.github.io/genie-curtain-test/ on your phone.
 
-The bench opens on Lamp & Award. The selector also offers Big Win, Huge Win, Mega Win, and Curtain. Press PLAY or enable LOOP.
+The bench opens on Chests: purple Coin Strike and green Jackpot chests progress from level 1 to 5 with collection reactions. Symbols offers ten original symbol win highlights. Lamp & Award, Big Win, Huge Win, Mega Win, and Curtain remain in the selector.
 
-The lamp enters and floats, releases smoke and a glow burst, then reveals the original award panel and counts a sample 1,250.00. This is a presentation test, not a game outcome. The complete sequence lasts seven seconds. The genie character is intentionally reserved for its later design pass.
+Press PLAY or enable LOOP. Controls also include SKIP, STOP, RESET, MOTION OFF, and SPEED 2x. These are presentation previews, not game outcomes; no payout, threshold, or random result is calculated. Source coin numerals are supplied sample artwork.
 
-Controls: PLAY, SKIP, STOP, RESET, MOTION OFF, SPEED 2x, LOOP. All animations share the same control contract. The log reports cues and frame times.
-
-This public repository contains compiled test assets and artwork only. SDK source and game math remain private. Earlier hashed bundles are retained to avoid breaking cached pages during updates.
+This public repository contains compiled test assets and artwork only. SDK source and game math remain private. Earlier hashed bundles remain for cache compatibility.
